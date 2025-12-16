@@ -244,10 +244,8 @@
   <div class="productos">
     <div class="producto">
         <img src="img/foto8.jpg" alt="Super Mario Odyssey">
-        <h3>Super Mario Odyssey</h3>
-        <p>Aventura clásica de Nintendo.</p>
-        <div class="precio">$60</div>
-        <a href="#" class="btn">Comprar</a>
+        <h3>juegos ala venta</h3>
+        <p>contactanos para mas</p>
     </div>
 </div>
 
@@ -257,7 +255,7 @@
     <h2 class="titulo-seccion">Consolas</h2>
     <div class="productos">
         <div class="producto">
-            <img src="c:\Users\yeudy\OneDrive\Escritorio\fotos\foto 2.jpg" alt="PlayStation 5">
+            <img src="foto 2.jpg" alt="PlayStation 5">
             <h3>PlayStation 5</h3>
             <p>Nueva generación.</p>
             <div class="precio">$500</div>
